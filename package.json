@@ -1,0 +1,19 @@
+{
+  "name": "aqa-test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "@faker-js/faker": "^8.4.1",
+    "chai": "^5.1.1",
+    "cypress": "^13.11.0",
+    "cypress-dotenv": "^2.0.0",
+    "mocha": "^10.4.0"
+  }
+}
